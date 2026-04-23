@@ -73,7 +73,7 @@ Yes
 
 ## 6. File and Folder Plan
 
-'''text
+```text
 /FinalProject
   index.html
   /pages
@@ -90,6 +90,7 @@ Yes
     editor-screenshot.jpg
     semantic-example.jpg
     accessibility-example.jpg
+```
 
   ## 7. Code Validation
   I plan to validate my HTML and CSS by using online validation tools before I submit the final project.
