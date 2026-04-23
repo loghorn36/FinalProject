@@ -35,3 +35,27 @@ This page will explain what validation is and why it is useful when building web
 
 ### Using Generative Artificial Intelligence
 This page will talk about how generative AI can help with web development. I will include ways it can help with ideas, planning, and learning while also mentioning responsible use.
+
+## 3. Planned Media & Assets
+- Images: screenshots from class examples, code screenshots, and topic-related images
+- Icons: simple icons for navigation if needed
+- Videos (optional): none planned right now
+- Tables or Lists: lists of learning resources for each page
+- Forms (e.g., contact form): none planned
+
+## 4. Navigation Plan
+- Navigation menu labels:
+  - Home
+  - Code Editor
+  - Semantic HTML
+  - CSS Layout
+  - Accessibility
+  - Web Ethics
+  - Validation
+  - Generative AI
+
+- Footer links (optional):
+  - Home
+  - Top of Page
+
+Users will move through the site by using a navigation menu that appears on each page. This will make it easier to go from the homepage to any topic page without getting lost.
