@@ -59,3 +59,37 @@ This page will talk about how generative AI can help with web development. I wil
   - Top of Page
 
 Users will move through the site by using a navigation menu that appears on each page. This will make it easier to go from the homepage to any topic page without getting lost.
+
+## 5. Accessibility Considerations
+
+1. What images will need alt text?  
+All screenshots, topic images, and any icons that have meaning will need alt text.
+
+2. How will you structure your headings (H1, H2, H3) on each page?  
+Each page will use one H1 for the main title and H2 headings for the main sections. H3 headings will only be used if I need smaller subsections under a main section.
+
+3. Will you use color combinations that meet contrast guidelines?  
+Yes
+
+## 6. File and Folder Plan
+
+'''text
+/FinalProject
+  index.html
+  /pages
+    using-editor.html
+    semantic-elements.html
+    css-layout.html
+    web-accessibility.html
+    web-ethics.html
+    html-css-validation.html
+    using-ai.html
+  /css
+    style.css
+  /img
+    editor-screenshot.jpg
+    semantic-example.jpg
+    accessibility-example.jpg
+
+  ## 7. Code Validation
+  I plan to validate my HTML and CSS by using online validation tools before I submit the final project.
